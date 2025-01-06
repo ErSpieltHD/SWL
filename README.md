@@ -1,6 +1,4 @@
-DDL = Direct Download Link
-
-| Icon | Name                     | Desc                         | Web                      | DDL                        |
+| Icon | Name                     | Desc                         | Web                      | Download Page                        |
 |:------:|:--------------------------|:-------------------------------------|:---------------------------:|:-----------------------------:|
 | <img src="https://www.nirsoft.net/utils/bluescreenview_icon.gif" alt="Icon" width="50"> | **NirSoft BlueScreenView** | Shows infos about blue screen minidumps | [Info](https://example.com/info) | [Get](https://example.com/download) |
 | <img src="https://example.com/app-logo.png" alt="Icon" width="50">           | **App Name**              | Description example   | [Info](https://example.com/info) | [Get](https://example.com/download) |
