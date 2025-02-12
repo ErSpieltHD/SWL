@@ -1,7 +1,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 | Icon | Dev | Name                     | Desc                         | Web                      | Download                        |
-|:------:|:--------------------------|:-------------------------------------|:---------------------------:|:-----------------------------:|
+|:------:|:------:|:--------------------------|:-------------------------------------|:---------------------------:|:-----------------------------:|
 | <img src="https://365cloudstore.com/wp-content/uploads/2023/10/Intune-500x500-01.png" alt="Icon" width="50"> | Micke-K | **IntuneManagement** | Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script. | [Info](https://github.com/Micke-K/IntuneManagement) | [Get](https://github.com/Micke-K/IntuneManagement/releases) |
 | <img src="https://apps.gnome.org/icons/scalable/org.gnome.DiskUtility.svg" alt="Icon" width="50"> | GNOME | **GNOME Disk Utility** | Inspect, format, partition, and configure disks and block devices | [Info](https://apps.gnome.org/de/DiskUtility/) | [Get](https://gitlab.gnome.org/GNOME/gnome-disk-utility) |
 | <img src="https://christitustech.github.io/winutil/assets/favicon.png" alt="Icon" width="50"> | ChrisTitusTech | **WinUtil** | Install Programs, Tweaks, Fixes, and Updates | [Info](https://github.com/ChrisTitusTech/winutil) | [Get](https://github.com/ChrisTitusTech/winutil/releases) |
